@@ -21,6 +21,7 @@
     }
   ],
   "showMyCode": true,
+  "contextSensitiveHelpUrl": "https://docs.micorosoft.com",
   "runtime": "6.0",
   "features": [
     "NoImplicitWith"
